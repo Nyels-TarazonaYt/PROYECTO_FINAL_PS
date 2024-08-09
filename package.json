@@ -1,0 +1,18 @@
+{
+  "name": "tienda-ropa",
+  "version": "1.0.0",
+  "description": "Tienda de ropa para hombres.",
+  "main": "src/product.js",
+  "type": "module",
+  "scripts": {
+    "test": "nyc mocha"
+  },
+  "author": "Aguirre y Tarazona",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "mocha": "^10.7.3",
+    "nyc": "^17.0.0",
+    "sinon": "^18.0.0"
+  }
+}
